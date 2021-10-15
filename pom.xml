@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.curso.jenkins</groupId>
   <artifactId>mi-arquetipo-personalizado</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>mi-arquetipo-personalizado</name>
   <description>Se trata de crear una plantilla de proyecto</description>
   <properties>
