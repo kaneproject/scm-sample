@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.curso.jenkins</groupId>
   <artifactId>mi-arquetipo-personalizado</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <name>mi-arquetipo-personalizado</name>
   <description>Se trata de crear una plantilla de proyecto</description>
   <properties>
@@ -13,7 +13,7 @@
 	<developerConnection>scm:git:git@github.com:kaneproject/scm-sample.git</developerConnection>
 	<connection>scm:git:git@github.com:kaneproject/scm-sample.git</connection>
 	<url>scm:git:git@github.com:kaneproject/scm-sample.git</url>
-	<tag>HEAD</tag>
+	<tag>0.0.2</tag>
 </scm>
 <distributionManagement>
 	<repository>
